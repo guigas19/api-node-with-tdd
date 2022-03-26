@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c219516e-173c-4644-9612-c45c52e08f0f",
+    "name": "Model S",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b3dbd24a-b617-4373-8ebb-3fc592c7bea3",
+    "name": "A8",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "80923c9b-364e-426e-86a0-3bb757d20f4b",
+    "name": "Alpine",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
